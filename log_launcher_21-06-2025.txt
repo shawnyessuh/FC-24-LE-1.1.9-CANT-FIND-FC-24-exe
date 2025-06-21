@@ -1,0 +1,89 @@
+14:57:33.797116	INFO	[Core::InitDirectories]
+14:57:33.797687	INFO	[Core::GetLEDataPath]
+14:57:33.798176	INFO	[Core::GetLEDataPathRegVal] SOFTWARE\Live Editor\FC 24\Data Dir
+14:57:33.798605	WARN	[Core::GetLEDataPathRegVal] RegOpenKeyEx SOFTWARE\Live Editor\FC 24\Data Dir failed 2
+14:57:33.800539	INFO	[Core::GetLEDataPath] Default: C:\FC 24 Live Editor
+14:57:33.801570	INFO	[core::Config::Setup]
+14:57:33.802219	INFO	Load config from C:\FC 24 Live Editor\config.json
+14:57:33.802843	INFO	[core::Config::Load] Done
+14:57:33.808803	INFO	[Core::CreateLegacyFilesStructure]
+14:57:36.264876	INFO	[Core::CreateLegacyFilesStructure] Done
+14:57:36.266268	INFO	[Core::InitDirectories] Done
+14:57:36.266695	INFO	Live Editor v24.1.1.9
+14:57:36.267099	INFO	Game Install Dir: C:\Users\admin\Downloads\FC 24 LE v24.1.1.8
+14:57:36.267781	INFO	Live Editor Dir: C:\Users\admin\Downloads\FC 24 LE v24.1.1.9
+14:57:36.268492	FATAL	Can't find FC24.exe in :
+C:\Users\admin\Downloads\FC 24 LE v24.1.1.8
+14:57:36.268955	INFO	[Core::ReadGameBuildInfo]
+14:57:36.269406	INFO	[Core::ReadGameBuildInfo] Done
+14:57:36.269751	INFO	[Core::RestoreOrgGameFiles]
+14:57:36.270156	INFO	[Core::RestoreOrgGameFiles] Done
+14:57:36.270536	INFO	[Core::BackupOrgGameFiles]
+14:57:36.271003	ERROR	Backup EAAC error file_size: The system cannot find the file specified.: "C:\Users\admin\Downloads\FC 24 LE v24.1.1.8\EAAntiCheat.GameServiceLauncher.exe"
+14:57:36.272386	INFO	[Core::BackupOrgGameFiles] Done
+14:57:36.273027	INFO	[Core::CopyFakeEAAC]
+14:57:36.273516	ERROR	Can't find eaac backup
+14:57:36.273920	INFO	[Core::CopyFakeEAAC] Done
+14:57:36.274372	INFO	[Core::SetupLocalize]
+14:57:36.274770	INFO	Loading language: C:\Users\admin\Downloads\FC 24 LE v24.1.1.9\Lang\EN\translate.json
+14:57:36.277729	INFO	Language loaded
+14:57:36.279803	INFO	[Core::SetupLocalize] Done
+14:57:36.280883	INFO	[Core::GetLEDataPath]
+14:57:36.281261	INFO	[Core::GetLEDataPathRegVal] SOFTWARE\Live Editor\FC 24\Data Dir
+14:57:36.281757	INFO	[Core::GetLEDataPath] Found Reg Val: C:\FC 24 Live Editor
+14:57:36.283007	INFO	Set Dropdown Options File: C:\FC 24 Live Editor\data\id_map.json
+14:57:36.283523	INFO	Set Dropdown Options from Json File: C:\FC 24 Live Editor\data\id_map.json
+14:57:36.295498	INFO	[Core::Init] Done
+14:57:36.379477	INFO	[Core::DetectFIFAModManager]
+14:57:36.380353	INFO	[Core::DetectFIFAModManager] Done
+14:57:36.381693	INFO	[Core::GetLEDataPath]
+14:57:36.382140	INFO	[Core::GetLEDataPathRegVal] SOFTWARE\Live Editor\FC 24\Data Dir
+14:57:36.383551	INFO	[Core::GetLEDataPath] Found Reg Val: C:\FC 24 Live Editor
+14:57:36.384152	INFO	[Core::GetLEDataPath]
+14:57:36.384711	INFO	[Core::GetLEDataPathRegVal] SOFTWARE\Live Editor\FC 24\Data Dir
+14:57:36.385271	INFO	[Core::GetLEDataPath] Found Reg Val: C:\FC 24 Live Editor
+14:57:36.385839	WARN	Can't find C:\Users\admin\Downloads\FC 24 LE v24.1.1.8\Data\locale.ini
+14:57:43.159468	INFO	[Core::InitDirectories]
+14:57:43.161450	INFO	[Core::GetLEDataPath]
+14:57:43.162327	INFO	[Core::GetLEDataPathRegVal] SOFTWARE\Live Editor\FC 24\Data Dir
+14:57:43.162767	INFO	[Core::GetLEDataPath] Found Reg Val: C:\FC 24 Live Editor
+14:57:43.163160	INFO	[core::Config::Setup]
+14:57:43.163589	INFO	Load config from C:\FC 24 Live Editor\config.json
+14:57:43.164094	INFO	[core::Config::Load] Done
+14:57:43.165264	INFO	[Core::CreateLegacyFilesStructure]
+14:57:43.205681	INFO	[Core::CreateLegacyFilesStructure] Done
+14:57:43.206218	INFO	[Core::InitDirectories] Done
+14:57:43.206698	INFO	Live Editor v24.1.1.9
+14:57:43.207003	INFO	Game Install Dir: C:\Users\admin\Downloads\FC 24 LE v24.1.1.8
+14:57:43.207318	INFO	Live Editor Dir: C:\Users\admin\Downloads\FC 24 LE v24.1.1.9
+14:57:43.207653	FATAL	Can't find FC24.exe in :
+C:\Users\admin\Downloads\FC 24 LE v24.1.1.8
+14:57:43.208049	INFO	[Core::ReadGameBuildInfo]
+14:57:43.210584	INFO	[Core::ReadGameBuildInfo] Done
+14:57:43.211020	INFO	[Core::RestoreOrgGameFiles]
+14:57:43.212485	INFO	[Core::RestoreOrgGameFiles] Done
+14:57:43.213317	INFO	[Core::BackupOrgGameFiles]
+14:57:43.213894	ERROR	Backup EAAC error file_size: The system cannot find the file specified.: "C:\Users\admin\Downloads\FC 24 LE v24.1.1.8\EAAntiCheat.GameServiceLauncher.exe"
+14:57:43.214373	INFO	[Core::BackupOrgGameFiles] Done
+14:57:43.214740	INFO	[Core::CopyFakeEAAC]
+14:57:43.215674	ERROR	Can't find eaac backup
+14:57:43.217039	INFO	[Core::CopyFakeEAAC] Done
+14:57:43.217463	INFO	[Core::SetupLocalize]
+14:57:43.217860	INFO	Loading language: C:\Users\admin\Downloads\FC 24 LE v24.1.1.9\Lang\EN\translate.json
+14:57:43.220016	INFO	Language loaded
+14:57:43.220426	INFO	[Core::SetupLocalize] Done
+14:57:43.220750	INFO	[Core::GetLEDataPath]
+14:57:43.221061	INFO	[Core::GetLEDataPathRegVal] SOFTWARE\Live Editor\FC 24\Data Dir
+14:57:43.221413	INFO	[Core::GetLEDataPath] Found Reg Val: C:\FC 24 Live Editor
+14:57:43.221741	INFO	Set Dropdown Options File: C:\FC 24 Live Editor\data\id_map.json
+14:57:43.222071	INFO	Set Dropdown Options from Json File: C:\FC 24 Live Editor\data\id_map.json
+14:57:43.232980	INFO	[Core::Init] Done
+14:57:43.301651	INFO	[Core::DetectFIFAModManager]
+14:57:43.302284	INFO	[Core::DetectFIFAModManager] Done
+14:57:43.303414	INFO	[Core::GetLEDataPath]
+14:57:43.303817	INFO	[Core::GetLEDataPathRegVal] SOFTWARE\Live Editor\FC 24\Data Dir
+14:57:43.304253	INFO	[Core::GetLEDataPath] Found Reg Val: C:\FC 24 Live Editor
+14:57:43.304836	INFO	[Core::GetLEDataPath]
+14:57:43.305346	INFO	[Core::GetLEDataPathRegVal] SOFTWARE\Live Editor\FC 24\Data Dir
+14:57:43.307962	INFO	[Core::GetLEDataPath] Found Reg Val: C:\FC 24 Live Editor
+14:57:43.308636	WARN	Can't find C:\Users\admin\Downloads\FC 24 LE v24.1.1.8\Data\locale.ini
