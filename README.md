@@ -1,0 +1,1 @@
+MY Live Editor wont open and it says "Cant find FC24exe" and tells me to reinstall or change game directory on LE but ive reinstalled like 4 times now and i cant even open LE and before when it used to open the TU would show a longggggg number but was green so im so confused pls help
